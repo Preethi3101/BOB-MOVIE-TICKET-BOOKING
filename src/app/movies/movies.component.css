@@ -1,0 +1,21 @@
+/* Movies page specific styles */
+
+.movies {
+    background-color: #FAD02E;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .movie-list {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    padding: 2rem;
+    overflow-x: auto;
+  }
+  
+  /* Movie card styles are the same as in homepage.component.css */
+  
+  /* Additional styles for buttons and links are the same as in homepage.component.css */
+  
